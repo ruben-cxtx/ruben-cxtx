@@ -59,7 +59,7 @@ I love when people **review my code** — if you see something I can improve, te
 ### ⚡ Fun things about me
 
 - I really like **self-improvement** and trying to live in a disciplined way
-- I like **books** (philosophy, productivity, tech)
+- I like **books** (philosophy, productivity, tech, astronomy, sci-fi, classics)
 - I play **guitar and sing**
 - I like to **cook** and try new recipes
 - I actually **enjoy learning** 😅
