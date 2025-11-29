@@ -8,13 +8,13 @@ I like to **build things that make life easier for people**, learn fast, and imp
 
 ### 🛠 Tech & Tools
 
-- **Frontend:** HTML, CSS, JavaScript, React (learning), Typescript (Learning)
+- **Frontend:** HTML, CSS, JavaScript, React (learning), Typescript (Learning), Tailwind (learning)
 - **Backend:** Node.js, Express.js
 - **Auth:** bcrypt, Passport.js (sessions, local strategy)
 - **Database:** PostgreSQL (part of PERN)
 - **Other skills:** REST APIs, basic full-stack project structure, Git/GitHub
 
-> Currently leveling up in: **React**, **TypeScript**, better **auth flows**, and **deploying full-stack apps**.
+> Currently leveling up in: **React**, **TypeScript** and **Tailwind**
 
 ---
 
