@@ -8,13 +8,13 @@ I like to **build things that make life easier for people**, learn fast, and imp
 
 ### 🛠 Tech & Tools
 
-- **Frontend:** HTML, CSS, JavaScript, React (learning), Typescript (Learning), Tailwind (learning)
+- **Frontend:** HTML, CSS, JavaScript, React (learning), Typescript, Tailwind (learning), Next (learning)
 - **Backend:** Node.js, Express.js
 - **Auth:** bcrypt, Passport.js (sessions, local strategy)
 - **Database:** PostgreSQL (part of PERN)
 - **Other skills:** REST APIs, basic full-stack project structure, Git/GitHub
 
-> Currently leveling up in: **React**, **TypeScript** and **Tailwind**
+> Currently leveling up in: **React**, **TypeScript**, **Tailwind** and **Next**
 
 ---
 
@@ -66,4 +66,4 @@ I love when people **review my code** — if you see something I can improve, te
 
 ---
 
-> “Learn, build, get feedback, improve. Repeat.”
+> “Learn, build, improve. Repeat.”
