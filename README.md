@@ -8,13 +8,14 @@ I like to **build things that make life easier for people**, learn fast, and imp
 
 ### 🛠 Tech & Tools
 
-- **Frontend:** HTML, CSS, JavaScript, React (learning), Typescript, Tailwind (learning), Next (learning)
+- **Frontend:** HTML, CSS, JavaScript, React (learning), Typescript, Tailwind, Next (learning)
 - **Backend:** Node.js, Express.js
 - **Auth:** bcrypt, Passport.js (sessions, local strategy)
 - **Database:** PostgreSQL (part of PERN)
-- **Other skills:** REST APIs, basic full-stack project structure, Git/GitHub
+- **Other skills:** REST APIs, full-stack project structure, Git/GitHub
+- **CI/CD:** Gitlab, YAML
 
-> Currently leveling up in: **React**, **TypeScript**, **Tailwind** and **Next**
+> Currently leveling up in: **React**, **TypeScript**, **Gitlab**, and **Next**
 
 ---
 
@@ -32,9 +33,9 @@ I love when people **review my code** — if you see something I can improve, te
 ### 📚 Current status
 
 - 🎓 CS student – University of London (online)
-- 💻 Learning: React, better backend patterns, deployment (Node + Nginx + Docker later)
+- 💻 Learning: React, better backend patterns, CI/CD with Gitlab
 - 🧠 Into: self-improvement, Stoicism, reading
-- 🎸 Hobbies: guitar, singing
+- 🎸 Hobbies: guitar, singing, reading
 - 👨‍🍳 I cook a lot
 
 ---
@@ -43,7 +44,7 @@ I love when people **review my code** — if you see something I can improve, te
 
 - Becoming a **strong full-stack dev** (PERN first, then add tests, Docker, K8S, AWS, CI/CD, Tailwind)
 - Building a **real portfolio** with useful projects
-- Getting an **internship / remote opportunity** outside Panama
+- Getting a **remote opportunity** outside Panama
 - Creating projects that **show real backend + auth + database** skills
 
 ---
@@ -52,7 +53,7 @@ I love when people **review my code** — if you see something I can improve, te
 
 - 📧 **juarez.ruben2606@gmail.com**
 - 🌍 Based in **Panama City, Panama**
-- 💬 Open to feedback, collaborations, and internship opportunities
+- 💬 Open to feedback, collaborations, and job opportunities
 
 ---
 
